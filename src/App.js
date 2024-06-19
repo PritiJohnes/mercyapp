@@ -91,13 +91,13 @@ function App() {
     <MantineProvider>
       <div className="App">
         
-        <Router  basename="/" >
+        <Router  basename="/mercyapp" >
         <ScrollToTop/>
         {isMobile?<></>:<DetailsBar/>}
         <TopBar/>
         <Routes>
           <Route exact path ="/" element = {<Home/>}/>
-          <Route exact path ="/mercyhospapp" element = {<Home/>}/>
+          <Route exact path ="/mercyapp" element = {<Home/>}/>
           <Route  path ="/announce" element = {<Announce number = "0"/>}/>
           <Route path ="/service" element = {<Service/>}/>
           <Route path ="/department" element = {<DepartmentsAll/>}/>
