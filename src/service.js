@@ -13,7 +13,7 @@ const Service = ()=>{
     const [ser,setService] = useState(-1);
     return(
         // FFFFE0
-        <Group maw={isMobile?"95%":"100%"} justify="center" mx="auto" my="" style={{backgroundColor:"#F7FEE2",fontFamily:"Montserrat"}}>
+        <Group maw={isMobile?"95%":"100%"} justify="center" mx="auto" my="" style={{backgroundColor:"#F8F9FA",fontFamily:"Montserrat"}}>
             {isMobile?<Stack maw="100%" my={15}>
                 <Text size= {isMobile?"18px":"24px"} fw={500} c="grey" w="95%" ta="center">Services Provided in Mercy Hospital</Text>
                 <Group maw="95%" mx="auto">
