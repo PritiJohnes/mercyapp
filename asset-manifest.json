@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mercyapp/static/css/main.bd3bd03c.css",
-    "main.js": "/mercyapp/static/js/main.aed200f0.js",
+    "main.css": "/mercyapp/static/css/main.b947c655.css",
+    "main.js": "/mercyapp/static/js/main.f495514c.js",
     "static/media/Dental.jpg": "/mercyapp/static/media/Dental.d58d0bd9b75b81cfdbb0.jpg",
     "static/media/Dental flex.jpg": "/mercyapp/static/media/Dental flex.c1172b654f1879ff27f9.jpg",
     "static/media/Xray1.jpg": "/mercyapp/static/media/Xray1.2dc62c25980cd9c449eb.jpg",
@@ -42,11 +42,11 @@
     "static/media/support.jpg": "/mercyapp/static/media/support.6096e12ce891c0db6847.jpg",
     "static/media/criticalcare.webp": "/mercyapp/static/media/criticalcare.46490c367b4599e49dde.webp",
     "index.html": "/mercyapp/index.html",
-    "main.bd3bd03c.css.map": "/mercyapp/static/css/main.bd3bd03c.css.map",
-    "main.aed200f0.js.map": "/mercyapp/static/js/main.aed200f0.js.map"
+    "main.b947c655.css.map": "/mercyapp/static/css/main.b947c655.css.map",
+    "main.f495514c.js.map": "/mercyapp/static/js/main.f495514c.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd3bd03c.css",
-    "static/js/main.aed200f0.js"
+    "static/css/main.b947c655.css",
+    "static/js/main.f495514c.js"
   ]
 }
