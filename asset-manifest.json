@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mercyhospapp/static/css/main.59991c4e.css",
-    "main.js": "/mercyhospapp/static/js/main.7642a666.js",
+    "main.js": "/mercyhospapp/static/js/main.eb0d60a5.js",
     "static/media/Dental.jpg": "/mercyhospapp/static/media/Dental.d58d0bd9b75b81cfdbb0.jpg",
     "static/media/Dental flex.jpg": "/mercyhospapp/static/media/Dental flex.c1172b654f1879ff27f9.jpg",
     "static/media/Xray1.jpg": "/mercyhospapp/static/media/Xray1.2dc62c25980cd9c449eb.jpg",
@@ -43,10 +43,10 @@
     "static/media/criticalcare.webp": "/mercyhospapp/static/media/criticalcare.46490c367b4599e49dde.webp",
     "index.html": "/mercyhospapp/index.html",
     "main.59991c4e.css.map": "/mercyhospapp/static/css/main.59991c4e.css.map",
-    "main.7642a666.js.map": "/mercyhospapp/static/js/main.7642a666.js.map"
+    "main.eb0d60a5.js.map": "/mercyhospapp/static/js/main.eb0d60a5.js.map"
   },
   "entrypoints": [
     "static/css/main.59991c4e.css",
-    "static/js/main.7642a666.js"
+    "static/js/main.eb0d60a5.js"
   ]
 }
